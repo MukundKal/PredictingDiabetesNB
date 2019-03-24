@@ -11,4 +11,7 @@ The training and evaluation on the model is implemented in **pima-prediction.py*
 Achieved Accuracy of _75%_ approximately on test-spilt. 
 
 
-Still working on to improve accuracy!
+Still working on to improve accuracy..
+
+
+![bg](https://github.com/MukundKal/PredictingDiabetesNB/blob/master/bg.jpg)
