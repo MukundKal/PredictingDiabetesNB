@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt      # matplotlib.pyplot plots data
 
 # ## Loading and Reviewing the Data
 
-df = pd.read_csv("./data/pima-data.csv")
+df = pd.read_csv("./pima-data.csv")
 
 
 df.shape
