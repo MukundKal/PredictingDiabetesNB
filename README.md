@@ -7,7 +7,8 @@ Original data file is _pima-data.csv_ or can be downloaded at [Pima Indians Diab
 After preprocessing using the **data-preprocessing.py** and **plot-correlation.py** programs, the cleaned data has been
 exported to _precessed-pima.csv_.
 
-The training and evaluation on the model is implemented in **pima-prediction.py** 
+The training and evaluation on the model is implemented in **pima-prediction.py**.
+
 Achieved Accuracy of _75%_ approximately on test-spilt. 
 
 
